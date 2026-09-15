@@ -1,0 +1,5 @@
+What is a class?|A blueprint for creating objects
+What is an object?|An instance of a class
+What is encapsulation?|Bundling data and methods together and controlling access
+What keyword is used for inheritance in Java?|extends
+What is a constructor?|A special method used to initialize an object

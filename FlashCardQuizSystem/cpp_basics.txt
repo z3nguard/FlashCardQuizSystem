@@ -1,0 +1,5 @@
+What does OOP stand for?|Object Oriented Programming
+What is a vector in C++?|A dynamic array from the STL
+What header is used for vector?|vector
+What keyword creates an object dynamically?|new
+What is inheritance?|A mechanism where one class derives from another
